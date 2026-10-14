@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/michel-anglus-banner.png" alt="Michel Anglus - Anglus Software" width="100%" />
+  <img src="./assets/michel-anglus-banner.pn" alt="Michel Anglus - Anglus Software" width="100%" />
 </p>
 
-<h1 align="center">Michel Anglus</h1>
+<h1 align="center">Michael Anglus</h1>
 
 <p align="center">
   <strong>Founder da Anglus Software • Full Stack Builder • SaaS • IA • Cloud • Mobile • Segurança • E-commerce • Rastreamento</strong>
@@ -24,7 +24,7 @@
 
 ## 🧠 Sobre
 
-Sou o **Michel**, founder da **Anglus Software**, criando um ecossistema próprio de produtos digitais para **e-commerce, rastreamento, segurança, automação, IA, infraestrutura, mobile e operações empresariais**.
+Sou o **Michael**, founder da **Anglus Software**, criando um ecossistema próprio de produtos digitais para **e-commerce, rastreamento, segurança, automação, IA, infraestrutura, mobile e operações empresariais**.
 
 Meu foco é construir produtos completos: **arquitetura, backend, frontend, mobile, automações, integrações, cloud, monitoramento e operação real**.
 
