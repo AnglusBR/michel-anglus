@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/michel-anglus-banner.pn" alt="Michel Anglus - Anglus Software" width="100%" />
+  <img src="[./assets/michel-anglus-banner.pn](https://ravel.com.br/blog/wp-content/uploads/2023/04/IA-no-Cotidiano-Banner.jpg)" alt="Michael Anglus - Anglus Software" width="100%" />
 </p>
 
 <h1 align="center">Michael Anglus</h1>
